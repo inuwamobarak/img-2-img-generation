@@ -36,9 +36,14 @@ To use the code in this repository, follow these steps:
 The project is implemented using the following technologies and libraries:
 - Python
 - PyTorch
+- Diffusers
 - NumPy
+- Transformers
 - PIL (Python Imaging Library)
 - Matplotlib
+- Scipy
+- Ftfy
+- Accelerate
 
 ## Contributing
 Contributions to this project are welcome. To contribute, follow these steps:
